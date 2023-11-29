@@ -1,0 +1,27 @@
+/* styles.css */
+.row_1 {
+    background-color: #555555;
+    height: 45px;
+    padding: 10px;
+}
+
+.row_2, .row_2:a {
+    background-color: #D9D9D9D9;
+    height: 80px;
+}
+.custom-bg-contact, .contact-hp, .contact-email{
+    font-family: poppins;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.custom-bg-auth, .auth-sign-up, .auth-sign-in {
+    background-color: #555555;
+    font-family: poppins;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-right: 10px;
+
+}
+
+
